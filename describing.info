@@ -14,3 +14,9 @@ regions[sidebar_first]  = 'Left Content'
 regions[sidebar_second] = 'Right Content'
 regions[footer]         = 'Footer'
 
+;;;;;;;;;;;;;;;;;;;;;
+;; Style Sheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/style.css
+stylesheets[all][] = concise/dist/css/concise.css

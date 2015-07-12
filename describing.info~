@@ -1,5 +1,5 @@
-name = Bootstrap
-description = Built to use Bootstrap, a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+name = Describing
+description = A lightweight flat theme using concise css.
 core = 7.x
 
 
@@ -14,3 +14,9 @@ regions[sidebar_first]  = 'Left Content'
 regions[sidebar_second] = 'Right Content'
 regions[footer]         = 'Footer'
 
+;;;;;;;;;;;;;;;;;;;;;
+;; Style Sheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/style.css
