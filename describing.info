@@ -1,0 +1,16 @@
+name = Describing
+description = A lightweight flat theme using concise css.
+core = 7.x
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Left Content'
+regions[sidebar_second] = 'Right Content'
+regions[footer]         = 'Footer'
+

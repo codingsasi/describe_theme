@@ -1,0 +1,16 @@
+name = Bootstrap
+description = Built to use Bootstrap, a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+core = 7.x
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[navigation]     = 'Navigation'
+regions[header]         = 'Top Bar'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Left Content'
+regions[sidebar_second] = 'Right Content'
+regions[footer]         = 'Footer'
+
