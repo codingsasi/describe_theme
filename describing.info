@@ -19,4 +19,5 @@ regions[footer]         = 'Footer'
 ;;;;;;;;;;;;;;;;;;;;;
 
 stylesheets[all][] = css/style.css
-stylesheets[all][] = concise/dist/css/concise.css
+stylesheets[all][] = skeleton.css/css/skeleton.css
+stylesheets[all][] = skeleton.css/css/normalize.css
